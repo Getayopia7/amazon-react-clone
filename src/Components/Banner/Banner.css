@@ -1,0 +1,16 @@
+.stack {
+        display: flex;
+        flex-direction: row;
+        text-align:center;
+        justify-content: space-around;
+}
+.buttonicon{
+    color: primary;
+}
+.banner-img{
+    width: 100%;
+    object-fit: contain;
+    display: block;
+    overflow: hidden;
+
+}

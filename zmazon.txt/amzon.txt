@@ -1,0 +1,9 @@
+dispatch is use to send data tothe data layer
+
+
+
+
+for the payment download stripe
+//////npm install @stripe/stripe-js
+
+pk_test_51MLk0iCS4CdlkBIpSUHA5H5Yv0aIgN0zmSiEXD7MDdf5NQwRCvnJxkGKCTlCjQ5KOGQz5Ku6p55VIXAyqXdE3bP000xwR2W9VQ
